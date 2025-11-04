@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 
-I am Xinyu Sun at the Master of Applied Statistics program in School of Management, Fudan University. Currently, I’m a research intern in Baidu(Shanghai). I completed my undergraduate studies in the Department of Mathematics at Nanjing University.
+I am Xinyu Sun at the Master of Applied Statistics program in School of Management, Fudan University[https://www.fudan.edu.cn/]. Currently, I’m a research intern in Baidu(Shanghai)[https://home.baidu.com/]. I completed my undergraduate studies in the Department of Mathematics at Nanjing University[https://www.nju.edu.cn/].
 
  
 
