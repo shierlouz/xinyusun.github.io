@@ -23,7 +23,7 @@ repository               : "shierlouz/xinyusun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/myphoto.jpg"
+  avatar           : "myphoto.jpg"
   name             : "Xinyu Sun"
   pronouns         : "she/her"  
   bio              : "B.S. in Stats, NJU & M.S. in Applied Stats, FDU"
