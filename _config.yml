@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_2.jpeg"
+  avatar           : "profile_2.png"
   name             : "Xinyu Sun"
   pronouns         : # example: "she/her"  
   bio              : "I'm a master student focusing on agentic rl and large language models."
