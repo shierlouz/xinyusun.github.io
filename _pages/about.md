@@ -14,6 +14,14 @@ My current research interests lie at the intersection of foundation models and d
 * **Multimodal Search Agents**
 * **Large Language Model (LLM) Post-training**
 
+## Technical Writing
+
+<a class="cpt-feature" href="/cpt-technical-blog/">
+  <span class="cpt-feature__eyebrow">CONTINUED PRE-TRAINING · TECHNICAL DEEP DIVE</span>
+  <span class="cpt-feature__title">领域持续预训练，真正难在哪里？</span>
+  <span class="cpt-feature__summary">流式训练、同域 Packing、分布式通信、梯度优化与故障恢复。</span>
+  <span class="cpt-feature__action" aria-hidden="true">阅读文章 →</span>
+</a>
 
 ## Publications
 
